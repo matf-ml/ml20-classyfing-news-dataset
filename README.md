@@ -1,6 +1,6 @@
 # ml20-classyfing-news-dataset
 
-<b>Klasifikacija novinckih članaka</b>
+<b>Klasifikacija novinskih članaka</b>
 
 Projekat je rađen u okviru kursa Mašinsko učenje na Matematičkom fakultetu, Univerzitet u Beogradu.
 
