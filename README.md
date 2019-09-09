@@ -1,5 +1,4 @@
 # ml20-classyfing-news-dataset
-Tatjana Radovanović
 
 <b>Klasifikacija novinckih članaka</b>
 
